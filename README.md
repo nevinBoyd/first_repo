@@ -1,6 +1,6 @@
 # first_repo
 
-Lab - Getting to know GitHub
+Lab - Getting to know GitHub 
 
 Instructions
 Use the steps below to complete this lab. If you need help, you can refer back to resources in this lesson.
